@@ -20,3 +20,5 @@ instructions
 ⚠️Installation instructions⚠️
 
 "pip install pillow"
+
+Code by bigmohammad
